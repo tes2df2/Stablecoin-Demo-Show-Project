@@ -2,6 +2,14 @@
 This is a Demo Show Project for Master Class Binance
 
 
+
+
+How to add teammembers
+https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-team-access-to-an-organization-repository#:~:text=Under%20your%20organization%20name%2C%20click,of%20repositories%2C%20click%20Add%20repository.
+
+
+
+
 References to start this job:
 https://www.aier.org/article/algorithmic-stablecoins/
 
