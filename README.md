@@ -1,5 +1,29 @@
 # Stablecoin-Demo-Show-Project
-This is a Demo Show Project for Master Class Binance
+This is a Demo Show Project for Master Class Binance.
+This project for Algorithmic Stablecoin.
+
+"Stablecoins are meant to allow the exchange of an inherently volatile crypto-asset into a less volatile asset without leaving the crypto-ecosystem.", European Central Bank (ECB), 2019.
+Types of Stablecoins
+There are two main classes of stablecoins with their respective categories and subcategories: (1) backed and (2) algorithmic.
+Backed stablecoins as the name suggest are supported by collateral 💰 stored either on-chain or off-chain. The collateral is represented by a wide range of asset classes: USD dollars, gold, other cryptocurrencies like for example ether. Algorithmic stablecoins are not backed by any value just like Bitcoin. Unlike Bitcoin, these coins introduce a "monetary policy" into their systems, which is sometimes entirely reliant on algorithms or governance mechanisms. Ampleforth (AMPL), for example, relies on algorithmic money supply adjustments. NiBits (USNBT), another stablecoin relies on a governance mechanism of shareholders where assets get taken out of circulation based on governance decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
