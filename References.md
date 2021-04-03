@@ -1,4 +1,9 @@
-References to start this job: https://www.aier.org/article/algorithmic-stablecoins/
+References to start this job:
+
+https://github.com/prophetyy18/ChainIDE-BSC-Master-Class/tree/main/Week%206
+
+
+https://www.aier.org/article/algorithmic-stablecoins/
 
 https://github.com/aroff/BRLX
 
