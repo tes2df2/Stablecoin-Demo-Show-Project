@@ -6,6 +6,6 @@ The tasks will divide to small tasks.
 
 Team Memembers:
 0- Nazar
-1-
+1- Sidi
 2-
 3-
